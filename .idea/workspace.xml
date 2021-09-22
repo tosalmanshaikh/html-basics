@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ed561b78-f4cd-4ae3-876a-35931e48cf22" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="1xZlkMrhlilYX3aXy8YV0kThAn1" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/html basics /index.html?_ij_reload" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ed561b78-f4cd-4ae3-876a-35931e48cf22" name="Changes" comment="" />
+      <created>1630570634304</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1630570634304</updated>
+      <workItem from="1630570635799" duration="36000" />
+      <workItem from="1630570674966" duration="2000" />
+      <workItem from="1630570682942" duration="17415000" />
+      <workItem from="1630605714736" duration="4000" />
+      <workItem from="1630606688331" duration="68000" />
+      <workItem from="1630607136303" duration="34000" />
+      <workItem from="1630607389026" duration="254000" />
+      <workItem from="1630608410454" duration="73000" />
+      <workItem from="1630609640356" duration="37000" />
+      <workItem from="1630610425616" duration="29000" />
+      <workItem from="1630677752462" duration="228000" />
+      <workItem from="1630678022173" duration="28000" />
+      <workItem from="1630678152709" duration="16000" />
+      <workItem from="1630678988918" duration="480000" />
+      <workItem from="1630828750452" duration="12000" />
+      <workItem from="1630828767410" duration="3000" />
+      <workItem from="1632312835786" duration="44000" />
+      <workItem from="1632315776771" duration="32000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
